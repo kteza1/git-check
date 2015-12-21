@@ -1,5 +1,4 @@
-##commands
-----
+##Commands
 
 - [ ] **git clone --recursive [repo url]**  ............  Clones along with submodules
 
